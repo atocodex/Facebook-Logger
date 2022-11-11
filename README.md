@@ -1,7 +1,8 @@
-# Facebook-Logger
+# ato-fblogger
+> Geliştirdiği bu script facebook oltalama üzerine yapılmıştır. Tamamen eğitim amaçlıdır.
+> <br>
+> Kurbanların bilgilerinin düştüğü konum >> logins.txt
+> <br>
+> Script türkçe. Siz kendinize göre düzenleyebilirsiniz.
 
-> Facebook fake scriptidir. Phising için kullanılır ve Facebook hesapları loglanır.
-> Proje HTML, CSS ve PHP kullanarak geliştirilmiştir. Backend açısından kendi istediğiniz geliştirmeleri yapabilirsiniz.
-
-> Kurban(Log) Dosyası > logins.txt
-
+> atoxd x)
